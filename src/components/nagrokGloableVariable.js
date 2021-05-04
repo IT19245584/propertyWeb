@@ -1,0 +1,1 @@
+global.nagrok = 'https://214084edc170.ngrok.io';
